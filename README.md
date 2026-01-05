@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/license-MIT-orange?style=flat-square"/>
 </p>
 
+<p align="center">
+  <img src="Screen.png" alt="NZT Shield Logo" width="120"/>
+</p>
+
 ---
 
 ## ✨ Features
@@ -123,6 +127,7 @@ NZT Shield is designed for educational and personal use. While it provides real 
 <p align="center">
   Made with ❤️ by NZT Foundation
 </p>
+
 
 
 

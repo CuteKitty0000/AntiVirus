@@ -1,7 +1,7 @@
 # 🛡️ NZT SHIELD
 
 <p align="center">
-  <img src="NZT_Logo.png" alt="NZT Shield Logo" width="120"/>
+  <img src="nzt-logo.png" alt="NZT Shield Logo" width="120"/>
 </p>
 
 <p align="center">
@@ -123,5 +123,6 @@ NZT Shield is designed for educational and personal use. While it provides real 
 <p align="center">
   Made with ❤️ by NZT Foundation
 </p>
+
 
 

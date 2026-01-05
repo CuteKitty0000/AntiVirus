@@ -52,7 +52,7 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./Screen.png" alt="NZT Shield Logo" width="300">
+  <img src="./Screen.png" alt="NZT Shield Logo" width="500">
 </p>
 
 | Home | Scan | Settings |
@@ -127,6 +127,7 @@ NZT Shield is designed for educational and personal use. While it provides real 
 <p align="center">
   Made with ❤️ by NZT Foundation
 </p>
+
 
 
 

@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="Screen.png" alt="NZT Shield Logo" width="120"/>
+  <img src="./Screen.png" alt="NZT Shield Logo" width="300">
 </p>
 
 ---
@@ -127,6 +127,7 @@ NZT Shield is designed for educational and personal use. While it provides real 
 <p align="center">
   Made with ❤️ by NZT Foundation
 </p>
+
 
 
 

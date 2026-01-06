@@ -1,4 +1,4 @@
-# 🛡️ NZT SHIELD
+# 🛡️ NZT SHIELD (Under Developement)
 
 <p align="center">
   <img src="nzt-logo.png" alt="NZT Shield Logo" width="120"/>
@@ -127,6 +127,7 @@ NZT Shield is designed for educational and personal use. While it provides real 
 <p align="center">
   Made with ❤️ by NZT Foundation
 </p>
+
 
 
 
